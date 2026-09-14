@@ -41,7 +41,7 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> Mr. Gaurav Patel</p>
-<p><strong>Trainer Email ID:</strong> gaurav</p>
+<p><strong>Trainer Email ID:</strong> Gaurav.patel.gpp@gmail.com</p>
 <p><strong>Trainer Designation:</strong> Data Engineer</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -63,54 +63,25 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During this course, I learned to build a complete AI-based project from start to finish — from designing the logic to creating full documentation, presentations, and clear explanations of my work. Alongside this, the LST and SST sessions helped me strengthen my professional and workplace skills, including structured problem-solving, business writing, resume building, and interview readiness. I also learned about teamwork, conflict management, and emotional intelligence, along with hands-on exposure to AI tools and effective prompting. Overall, this course helped me grow both technically and professionally, making me more confident, skilled, and ready for real-world job opportunities.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> SwipeHire: A Dual Mode AI Driven Job Matching Platform for both Candidates and Recruiters;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: SwipeHire: A Dual Mode AI Driven Job Matching Platform for both Candidates and Recruiters</h3>
+SwipeHire is a dual-mode, AI-powered job matching platform that lets candidates and recruiters swipe through opportunities and profiles, instantly see a computed compatibility score, and — once both sides express mutual interest — chat, share files, and schedule interviews, all within one connected system.
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/muskaan2k2/SwipeHire-A-Dual-Mode-Job-Matching-Platform/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
@@ -118,53 +89,66 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 ## **References**
 
 - [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+- https://doi.org/10.1108/SHR-04-2018-0032
+https://www.sciencedirect.com/science/article/pii/S1319157821001664
+https://dl.acm.org/doi/10.1145/3234465
+https://arxiv.org/abs/1812.08040
+https://www.sciencedirect.com/science/article/abs/pii/S0925231222006721
+https://www.ijraset.com
+https://arxiv.org/abs/1908.10084
+https://arxiv.org/abs/1301.3781
+https://jwt.io/introduction
+https://react.dev
+https://vitejs.dev
+https://expressjs.com
+https://nodejs.org/docs
+https://www.mongodb.com/docs
+https://mongoosejs.com
+https://socket.io/docs
+https://www.npmjs.com/package/bcryptjs
+https://www.npmjs.com/package/multer
+https://www.framer.com/motion
+https://recharts.org
+https://huggingface.co/docs/transformers.js
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+https://axios-http.com
+https://www.npmjs.com/package/express-rate-limit
+https://wikipedia.com
+
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+From the LST and SST sessions, I have learned how to approach problems in a structured way, communicate more professionally in a workplace setting, and present my ideas with confidence and clarity. Sessions on interview readiness, resume building, and business writing helped me get ready for real job opportunities, while topics like teamwork, conflict management, and emotional intelligence taught me how to work well with others. I also gained hands-on exposure to AI tools for productivity and effective prompting, which has improved how I use AI in my daily work. Overall, this program has strengthened both my technical and soft skills, making me more confident and workplace-ready.
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in community-oriented activities during my internship period, where I planted 8 trees to support environmental sustainability and served 8 senior citizens and differently-abled individuals, helping me build a sense of social responsibility alongside my technical learning.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+
   
- <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
+ 
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
-<!-- you can write impacts according to your experience in your words-->
+
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
 
 ### **Photos**
 
-<!-- add your photos below -->
-<!-- change url below with your image urls (inside  src='')-->
-
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/muskaan2k2/SwipeHire-A-Dual-Mode-Job-Matching-Platform/blob/main/SURE%20ProEd%20food_page-0001.jpg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/muskaan2k2/SwipeHire-A-Dual-Mode-Job-Matching-Platform/blob/main/SURE%20ProEd_page-0001.jpg" alt="Community Service Photo 2" width="30%">
+
 </div>
 
 ---
